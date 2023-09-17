@@ -9,6 +9,8 @@
 
 + There is 1 exel.csv file used in this project : *`noshowappointments-kagglev2-may-2016.csv`*
 
++ Click on *`project_noshowappointments.ipynb`* file to see the explanation
+
 
 
 
